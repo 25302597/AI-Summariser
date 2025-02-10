@@ -77,7 +77,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ## Acknowledgments
 
-- [DeepAI](https://openai.com/) for providing the language model API.
+- [Openai](https://openai.com/) for providing the language model API.
 - [Playwright](https://playwright.dev/) for enabling web automation.
 - [httpx](https://www.python-httpx.org/) for HTTP requests.
 - [Llama Index](https://github.com/jerryjliu/llama_index) for document management and querying functionalities.
