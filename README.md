@@ -1,6 +1,6 @@
 # Summariser
 
-This Python application allows users to extract textual content from various sources, including YouTube videos, websites, PDF documents, and plain text files. The extracted content can then be queried using the DeepAI GPT-3.5 language model to generate responses, summaries, or additional information.
+This Python application allows users to extract textual content from various sources, including YouTube videos, websites, PDF documents, and plain text files. The extracted content can then be queried using the ChatGPT language model to generate responses, summaries, or additional information.
 
 ## Features
 
@@ -73,7 +73,7 @@ The application currently handles basic user input and HTTP request errors but m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ## Acknowledgments
 
